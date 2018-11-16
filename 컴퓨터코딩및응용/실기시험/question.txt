@@ -1,0 +1,32 @@
+QUESTION
+What is the longest river in the world
+Nile River
+Amazon River
+Mississipi River
+QUESTION
+Which age is the youngest Nobel prize winner
+15
+17
+27
+31
+QUESTION
+What is the capital of Korea
+Pusan
+Incheon
+Suwon
+Seoul
+QUESTION
+Which is the most populated country
+India
+China
+Indonesia
+USA
+Brazil
+QUESTION
+Who is the father of all music
+Bach
+Beethoven
+Haydn
+Mozart
+Me
+You
